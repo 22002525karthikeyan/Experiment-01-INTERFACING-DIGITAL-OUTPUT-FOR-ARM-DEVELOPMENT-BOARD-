@@ -164,6 +164,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output  :
  
+ ### LED OFF:
+ ![](PMC-2.png)
+
+ ### LED ON:
+ ![](PMC-1.png)
  
  
  
