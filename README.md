@@ -73,11 +73,6 @@ The main features of LPC2148 include the following.
 12. connect the stm nucleo board and click on run 
 ![image](https://user-images.githubusercontent.com/36288975/226189649-b5dff389-91df-4eca-b84a-1127c6562637.png)
 
-
-
-
-
-
 ## STM 32 CUBE PROGRAM :
 
 ```
@@ -159,9 +154,6 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif /* USE_FULL_ASSERT */
 
 ```
-
-
-
 ## Output  :
  
  ### LED OFF:
@@ -169,8 +161,6 @@ void assert_failed(uint8_t *file, uint32_t line)
 
  ### LED ON:
  ![](PMC-1.png)
- 
- 
  
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed and the results are verified.
